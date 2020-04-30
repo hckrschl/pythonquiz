@@ -8,6 +8,8 @@ quizfragen = [("Worin hamstern Hamster ihr Essen?", "Backentaschen"),
               ("Wann sind Hamster wach?", "nachts")]
 
 print("\n🐹🌸  WILLKOMMEN BEIM HAMSTERQUIZ! 🌸🐹")
+name = input("Wer bist du?\n")
+print("Hallo", name, "! :)\n")
 
 # so lange das programm nicht abgebrochen wird, quizzen wir:
 while(True):
@@ -17,7 +19,7 @@ while(True):
     richtige_antwort = frage_und_antwort[1]
 
     # stelle die Ffage
-    print("~~~~~~~~~~~\nHAMSTERFRAGE:")
+    print("~~~~~~~~~~~~\nHAMSTERFRAGE:")
     print(frage)
 
     # frage die benutzerin nach ihrer antwort und speichere sie ab
@@ -25,6 +27,6 @@ while(True):
 
     # überprüfe ob die antwort stimmmt
     if (user_antwort == richtige_antwort):
-        print("Richtig! 🌸\n")
+        print("✅ Richtig! \n")
     else:
-        print("Leider falsch. Die richtige Antwort war: ", richtige_antwort, "\n")
+        print("🛑 Leider falsch. Die richtige Antwort war: ", richtige_antwort, "\n")
