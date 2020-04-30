@@ -1,15 +1,19 @@
 # Aus- und Eingabe
-TODO: text
+## Aufgabe
+Begrüße deine Benutzerin und frage sie nach ihrem Namen.
+Gib ihn danach wieder aus.
+Der Gesamtdialog könnte z.B. so aussehen:
 
-- code ausführen üben
-- print erklären
-- input erklären
--> übergang zu variablen
+```
+🐹🌸  WILLKOMMEN BEIM HAMSTERQUIZ! 🌸🐹
+Wer bist du?
+Lotte
+Hallo Lotte ! :)
+```
 
-
-## befehle, die ihr braucht:
-print()
-input()
+## Befehle, die du dafür brauchst:
+`print()`
+`input()`
 
 ## Tips
 - text schreibt man in `"Anführungszeichen"`
