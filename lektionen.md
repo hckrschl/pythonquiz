@@ -7,12 +7,18 @@
 ## Lektionen
 
 1. Aus- und Eingabe
+    - code ausführen üben
+    - print erklären
+    - input erklären
+    -> übergang zu variablen
 2. Variablen und Datentypen
     - eingabe abspeichern und wiedergeben
     - daten schreiben wir unterschiedlich auf, je nachdem was sie sind (text, listen, paare)
     - -> Übung: quizfragen abspeichern
 PAUSE
 3. If-else
+    - daten kann man vergleichen (<, >, !=, ==)
+    -> Entscheidungen aufgrund der Ergebnisse des Vergleichs
 
 ~~ TAG 1 ZU ENDE ~~
 
@@ -27,9 +33,12 @@ PAUSE
 
 ### BONUSAUFGABEN:
 - Versuche durch googlen herauszufinden: wie kann ich verhindern, dass eine Antwort nur wegen anderer Groß- und Kleinschreibung als falksch gezählt wird? (tip: .lower())
+- spielstand speichern und ausgeben
 - mehrere Antwortmöglichkeiten vorgeben und eine auswählen lassen– wie bekommt man das hin? (tip: es gibt mehrere wege, sei kreativ)
 - Wie kann ich verhindern, dass eine Frage mehrfach gestellt wurde? (tip: auch hier führen mehrere Wege zum Ziel)
-- wenn's richtig fix geht oder wer nach Feierabend weitergebastelt hat– gui bauen?
+- wenn's richtig fix geht oder wer nach Feierabend weitergebastelt hat
+    * multiplayermodus (quizduell)
+    * gui bauen?
 
 ## nützliche tricks:
 - auskommentieren
