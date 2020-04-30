@@ -5,19 +5,27 @@
 - Feedback und Wünsche jederzeit willkommen!
 
 ## Lektionen
-1. Aus- und Eingabe
-2. Variablen
-    - eingabe abspeichern und wiedergeben
-    - -> daten schreiben wir unterschiedlich auf, je nachdem was sie sind (text, listen, paare)
-    - quizfragen abspeichern? (oder zu früh?)
-3. If-else
-4. Funktionen / Datenzugriff
-    - random!
-    - tupealdressierung
-5. Schleifen
-    - mehrere fragen stellen
 
-BONUSAUFGABEN:
+1. Aus- und Eingabe
+2. Variablen und Datentypen
+    - eingabe abspeichern und wiedergeben
+    - daten schreiben wir unterschiedlich auf, je nachdem was sie sind (text, listen, paare)
+    - -> Übung: quizfragen abspeichern
+PAUSE
+3. If-else
+
+~~ TAG 1 ZU ENDE ~~
+
+4. Funktionen
+    -> random nutzen!
+5. Schleifen
+    -> mehrere fragen stellen
+6. Bonusaufgaben
+
+~~ TAG 2 ZU ENDE ~~
+
+
+### BONUSAUFGABEN:
 - Versuche durch googlen herauszufinden: wie kann ich verhindern, dass eine Antwort nur wegen anderer Groß- und Kleinschreibung als falksch gezählt wird? (tip: .lower())
 - mehrere Antwortmöglichkeiten vorgeben und eine auswählen lassen– wie bekommt man das hin? (tip: es gibt mehrere wege, sei kreativ)
 - Wie kann ich verhindern, dass eine Frage mehrfach gestellt wurde? (tip: auch hier führen mehrere Wege zum Ziel)
@@ -32,8 +40,9 @@ BONUSAUFGABEN:
 
 ## TODO vorbereiten
 - nachschlagseiten (deutschsprachig!)
+- "Handouts" -> aufgaben + hilfestellung/tips? (💡 falls das bei rpl.it geht: direkt als kommentar in vorbereitete codesheets wie in Rust by example?)
 - repl.it durchspielen
-    * zum coden nutzen!
+    * zum lektionen nachcoden nutzen!
     * wie kann ich code Anderer einsehen?
 - was machen wir wenn jemand vorkenntnisse hat oder richtig fix ist?
 
