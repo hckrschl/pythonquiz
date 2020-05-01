@@ -9,7 +9,7 @@ quizfragen = [("Worin hamstern Hamster ihr Essen?", "Backentaschen"),
 
 print("\n🐹🌸  WILLKOMMEN BEIM HAMSTERQUIZ! 🌸🐹")
 name = input("Wer bist du?\n")
-print("Hallo", name, "! :)\n")
+print("Hallo " + name + "! :)\n")
 
 # so lange das programm nicht abgebrochen wird, quizzen wir:
 while(True):
@@ -30,3 +30,5 @@ while(True):
         print("✅ Richtig! \n")
     else:
         print("🛑 Leider falsch. Die richtige Antwort war: ", richtige_antwort, "\n")
+
+    input("Bereit für die nächste Frage?\n")
