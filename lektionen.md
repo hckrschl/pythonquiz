@@ -1,26 +1,62 @@
-## Intro
+## Vorstellungsrunde (max 30 min) - Moderation Nadja
+muss nicht jede antworten, aber falls ihr was erzählen wollt:
+- was fasziniert euch an technik? (was nutzt ihr?)
+- warum seid ihr hier, was wollt ihr mitnehmen?
+- was für ein Bild von Computern/Technik habt ihr?
+- *👀 für uns: Was wollen die Kinder, was wollen die Mütter? Was ist unsere Altersstruktur?*
+_ *👀 wer sind wir, as machen wir und warum ist uns techniuk wichtig?*
+
+## Intro (max 5 min)
 - sinn der übung: verstehen was ein computerprogramm macht
+- *Falls in der Vorstellungsrunde eigene Ideen kommen: evtl einstricken!*
+- Wir schreiben die nächsten 2 Tage ein kleines Quiz (~> mini demo)
+    * warum quiz? Grundprinzip ist Dialog mit Technik, findet in vielen Geräten statt! (Fahrkartenautomat, Wetter-App, Instagram...)
+    * netter Seiteneffekt: wir lernen einander kennen :) Idee: Jede macht Quiz zu ihrem Thema (Hamster muss nicht sein!)
+    * wichtiger Bestandteil im Umgang mit Technik: Die richtigen Fragen stellen
 - mutet optisch evtl etwas archaisch an, aber apps, webseiten etc. funktionieren genau unter diesem Prinzip– nur sind die Ein- und Ausgabefelder etwas aufwändiger gestatet. (wie das geht kann man auch lernen)
 - wenn ihr eigene Ideen habt die ihr umsetzen wollt, sprecht uns gerne an. Wir gucken dann ob das in den zeitlichen Rahmen passt :)
 - Feedback und Wünsche jederzeit willkommen!
 
 ## Lektionen
+0. setup
+    - breakout session dry-run
+    - bildschirm sharen ansprechen!
+    - repl.it
+    - Ziel für heute (TODO); Ziel für morgen (Quiz fertig, evtl ausbauen, Präsentation)
 
 1. Aus- und Eingabe
     - code ausführen üben
     - print erklären
     - input erklären
     -> übergang zu variablen
+
+*~ kleine Runde: was war kniffelig, müssen wir evtl etwas noch einmal erklären? ~*
+
 2. Variablen und Datentypen
     - eingabe abspeichern und wiedergeben
     - daten schreiben wir unterschiedlich auf, je nachdem was sie sind (text, listen, paare)
     - -> Übung: quizfragen abspeichern
-PAUSE
+
+*~ kleine Runde: kniffelige fälle gemeinsam lösen (mob programming!) ~*
+*~ Wenn wir zeit haben, hinweisblock: Teamsport! Aufräumen mit Einzelcodertinnenmythos. ~*
+*~ Zusammenarbeit von codestücken geht nicht ohne kommunikation ~*
+
+16:00 PAUSE (20 min)
+
 3. If-else
     - daten kann man vergleichen (<, >, !=, ==)
     -> Entscheidungen aufgrund der Ergebnisse des Vergleichs
 
+17:15 ABSCHLUSSRUNDE:
+- Was hat uns gefallen, was nicht, was haben wir gelernt, will jemand was zeigen?
+- Ausblick auf morgen
+
 ~~ TAG 1 ZU ENDE ~~
+
+- Ankommensession: was haben wir gestern gelernt
+- Anmerkung: Fehler sind gut und helfen gedanklich weiterzukommen. Es geht darum gemeinsam zu lernen und auszuprobieren. Das hier ist kein Wettrennen. ~> Bericht aus Coderinnen-Alltag: Wir stecken auch oft fest und brauchen Unterstützung von Kolleginnen. Fehler lesen und finden ist Übungssache und manchmal sehen wir alle den Wald vor lauter Bäumen nicht :)
+- was machne wir heute?
+- 14:30 start coden
 
 4. Funktionen
     -> random nutzen!
@@ -28,8 +64,12 @@ PAUSE
     -> mehrere fragen stellen
 6. Bonusaufgaben
 
-~~ TAG 2 ZU ENDE ~~
+17:15 ABSCHLUSSRUNDE:
+- Angehörige herzlich willkommen zuzuschauen :)
+- Ermutigen, zu präsentieren!
+- Gemeinsames quizzen
 
+~~ TAG 2 ZU ENDE ~~
 
 ### BONUSAUFGABEN:
 - Versuche durch googlen herauszufinden: wie kann ich verhindern, dass eine Antwort nur wegen anderer Groß- und Kleinschreibung als falksch gezählt wird? (tip: .lower())
