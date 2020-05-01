@@ -1,4 +1,4 @@
-# variablen und datentypen
+# Informationen abspeichern mit Variablen und Datentypen
 ## Aufgabe
 1. Überlege dir mindestens zwei Quizfragen und deren Antworten
 2. Erstelle eine Liste von Frage-Antwort-Tupeln

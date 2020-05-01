@@ -29,6 +29,6 @@ while(True):
     if (user_antwort == richtige_antwort):
         print("✅ Richtig! \n")
     else:
-        print("🛑 Leider falsch. Die richtige Antwort war: ", richtige_antwort, "\n")
+        print("🛑 Leider falsch. Die richtige Antwort war: "+ richtige_antwort + "\n")
 
     input("Bereit für die nächste Frage?\n")
