@@ -4,7 +4,7 @@ Begrüße deine Benutzerin und frage sie nach ihrem Namen.
 Gib ihn danach wieder aus.
 Der Gesamtdialog könnte z.B. so aussehen:
 
-```
+```console
 🐹🌸  WILLKOMMEN BEIM HAMSTERQUIZ! 🌸🐹
 Wer bist du?
 Lotte
@@ -13,12 +13,14 @@ Hallo Lotte ! :)
 Natürlich kannst du dein Quiz zu allen möglichen Themen machen und die Begrüßung so gestalten wie es zu deinem Quiz passt.
 
 ## Befehle, die du dafür brauchst:
-`print()`
-`input()`
+- `print()`
+- `input()`
 
 ## Tips
 - text schreibt man in `"Anführungszeichen"`
+- wenn du dir notizen im code machen willst, beginne die Zeile mit `#`.
 
+--------------------
 
 # 2. Informationen abspeichern mit Variablen und Datentypen
 ## Aufgabe
@@ -29,19 +31,26 @@ Natürlich kannst du dein Quiz zu allen möglichen Themen machen und die Begrü�
 4. Gebe nur die erste Antwort mit print() aus
 
 ## Tips
-- In python fängt man bei 0 an zu zählen! das heißt, das 0. Element aus der Liste `[x, y, z]` ist `x`, das 1. `y` und das 2. `z`
+- In python fängt man bei 0 an zu zählen! das heißt, das 0. Element aus der Liste `[x, y, z]` ist `x`, das 1. Element ist `y` und das 2. Element `z`
+
+## Bonusaufgabe
+Da Fragen immer an der Ersten udn Antworten immer an der zweiten Stelle eines Tupels stehen, kannst du deinen code leichter lesbar machen, indem du 0 und 1 als Variable "einen Namen gibst".
 
 ## Spickzettel
 
 ```
 zahl = 12
-zahl = 15                                       # diese variable hat nun einen neuen wert
+zahl = 15   # diese variable hat nun einen neuen wert
 text = "hallo ich bin ein stück text. im Programmierjargon heiße ich 'string'."
-liste = ["stranger things", "mad men", "the great british bakeoff", "die sendung mit der maus"]
+liste = ["stranger things", "mad men",
+         "the great british bakeoff",
+         "die sendung mit der maus"]
 tupel = ("salz", "pfeffer")
 liste_von_tupeln = [paar, (zahl, text)]
 erstes_paar_aus_der_liste = liste_von_paaren[0] # obacht! wir zählen ab 0!
 ```
+
+--------------------
 
 # 3. Entscheidungen treffen mit If-else
 ## Aufgabe
@@ -53,7 +62,7 @@ Du weißt bereits, wie man Quizfragen ausgibt und user-eingaben speichert. Wenn 
 
 Der Gesamtdialog könnte z.B. so aussehen:
 
-```
+```console
 🐹🌸  WILLKOMMEN BEIM HAMSTERQUIZ! 🌸🐹
 Wer bist du?
 Lotte
@@ -63,6 +72,10 @@ Vorratsschrank
 🛑 Leider falsch. Die richtige Antwort war: Backentaschen
 ```
 
-
 ## Tips
 - erinnere dich an `input()`
+
+
+--------------------
+
+# 4. Code wiederverwenden mit Funktionen
