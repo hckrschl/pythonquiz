@@ -14,18 +14,20 @@ muss nicht jede antworten, aber falls ihr was erzählen wollt:
     * netter Seiteneffekt: wir lernen einander kennen :) Idee: Jede macht Quiz zu ihrem Thema (Hamster muss nicht sein!)
     * wichtiger Bestandteil im Umgang mit Technik: Die richtigen Fragen stellen
 - Die Lektionen bauen aufeinanbder auf, d.h. wir erweitern unseren code schritt für Schritt, bis wir ein fertige Quiz haben.
-- mutet optisch evtl etwas archaisch an, aber apps, webseiten etc. funktionieren genau unter diesem Prinzip– nur sind die Ein- und Ausgabefelder etwas aufwändiger gestatet. (wie das geht kann man auch lernen)
+- Quiz mutet optisch evtl etwas archaisch an, aber apps, webseiten etc. funktionieren genau unter diesem Prinzip– nur sind die Ein- und Ausgabefelder etwas aufwändiger gestatet. (wie das geht kann man auch lernen)
 - wenn ihr eigene Ideen habt die ihr umsetzen wollt, sprecht uns gerne an. Wir gucken dann ob das in den zeitlichen Rahmen passt :)
 - Feedback und Wünsche jederzeit willkommen!
 
 ## Lektionen
 0. setup
     - breakout session dry-run (kommt zurück wenn ihr mit einer Übung fertig seid)
-    - bildschirm sharen ansprechen!
     - repl.it
-    - Ziel für heute (TODO); Ziel für morgen (Quiz fertig, evtl ausbauen, Präsentation)
+        * anmelden
+        * -> my repls -> Multiplayer Repls (nur 1 Person pro team!) -> new repl -> share (lotterleben, teampartnerin, nadja)
+    - Ziel für heute (Fragen stellen, Antwort verifizieren); Ziel für morgen (Quiz fertig, evtl erweitern {spielstand, Antwortoptionen, Multiplayer}, Präsentation)
 
 1. Aus- und Eingabe
+    - motivation: computerprogramme leben von i/o
     - code ausführen üben
     - print erklären
         * strings
@@ -67,6 +69,7 @@ muss nicht jede antworten, aber falls ihr was erzählen wollt:
 
 4. Funktionen
     -> random nutzen!
+    - TODO: eigene fn schreiben? Wofür?
 5. Schleifen
     -> mehrere fragen stellen
 6. Bonusaufgaben
@@ -82,7 +85,7 @@ muss nicht jede antworten, aber falls ihr was erzählen wollt:
 - Versuche durch googlen herauszufinden: wie kann ich verhindern, dass eine Antwort nur wegen anderer Groß- und Kleinschreibung als falksch gezählt wird? (tip: .lower())
 - spielstand speichern und ausgeben
 - mehrere Antwortmöglichkeiten vorgeben und eine auswählen lassen– wie bekommt man das hin? (tip: es gibt mehrere wege, sei kreativ)
-- Wie kann ich verhindern, dass eine Frage mehrfach gestellt wurde? (tip: auch hier führen mehrere Wege zum Ziel)
+- Wie kann ich verhindern, dass eine Frage mehrfach gestellt wird? (tip: auch hier führen mehrere Wege zum Ziel)
 - wenn's richtig fix geht oder wer nach Feierabend weitergebastelt hat
     * multiplayermodus (quizduell)
     * gui bauen?
