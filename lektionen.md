@@ -67,7 +67,8 @@ muss nicht jede antworten, aber falls ihr was erzählen wollt:
 - was machen wir heute?
 - 14:30 start coden
 
-4. Funktionen
+4. Code wiederverwenden mit Funktionen
+    - du hast funtkionen schon verwendet: print und input!
     -> random nutzen!
     - TODO: eigene fn schreiben? Wofür?
 5. Schleifen

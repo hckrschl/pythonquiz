@@ -12,7 +12,7 @@ name = input("Wer bist du?\n")
 print("Hallo " + name + "! :)\n")
 
 # so lange das programm nicht abgebrochen wird, quizzen wir:
-while(True):
+while True:
     # wähle eine zufällige frage und deren antwort aus
     frage_und_antwort = random.choice(quizfragen)
     frage = frage_und_antwort[0]
@@ -26,9 +26,9 @@ while(True):
     user_antwort = input("\nDEINE ANTWORT:\n")
 
     # überprüfe ob die antwort stimmmt
-    if (user_antwort == richtige_antwort):
+    if user_antwort == richtige_antwort:
         print("✅ Richtig! \n")
     else:
-        print("🛑 Leider falsch. Die richtige Antwort war: "+ richtige_antwort + "\n")
+        print("🛑 Leider falsch. Die richtige Antwort war: " + richtige_antwort + "\n")
 
     input("Bereit für die nächste Frage?\n")
