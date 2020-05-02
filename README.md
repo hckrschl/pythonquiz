@@ -1,3 +1,9 @@
+# 0. repl.it einrichten
+- bei repl.it anmelden
+- Auf -> my repls -> Multiplayer Repls (nur 1 Person pro team!) -> new repl gehen und ein eigenes repl anlegen (dort wird euer code gespeichert)
+- im repl auf "share" klicken und eure teampartnerin, @nadjaobenaus und @lotterleben einladen
+    * Effekt: Ihr könnt gemeinsam an einer Datei arbeiten und Nadja und ich können sehen was ihr da macht :)
+
 # 1. Aus- und Eingabe
 ## Aufgabe
 Begrüße deine Benutzerin und frage sie nach ihrem Namen.
@@ -79,3 +85,12 @@ Vorratsschrank
 --------------------
 
 # 4. Code wiederverwenden mit Funktionen
+
+## Aufgabe
+- importiere das `random` modul
+- benutze die `random.choice()` Funktion in deinem code, um nun nicht immer die Erste, sondern eine zufällige Frage auszuwählen.
+
+## Bonusaufgabe
+Schreibe deine eigene funktion `frage_und_antwort()`, die ein zufälliges frage-antwort-tupel auswählt und diese zurückgibt. Rufe diese funktion in deinem Code auf, anstatt direkt auf die quizfragen zuzugreifen.
+
+Obacht: Die Funktion muss über dem Aufruf stehen!
