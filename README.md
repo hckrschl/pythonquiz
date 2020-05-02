@@ -4,6 +4,8 @@
 - im repl auf "share" klicken und eure teampartnerin, @nadjaobenaus und @lotterleben einladen
     * Effekt: Ihr könnt gemeinsam an einer Datei arbeiten und Nadja und ich können sehen was ihr da macht :)
 
+- ☝️ Falls ihr etwas nachschlagen wollt, könnt ihr zB bei https://py-tutorial-de.readthedocs.io/de/python-3.3/index.html (auf Deutsch) oder https://www.w3schools.com/python/ (auf Englisch) suchen.
+
 # 1. Aus- und Eingabe
 ## Aufgabe
 Begrüße deine Benutzerin und frage sie nach ihrem Namen.
@@ -94,3 +96,5 @@ Vorratsschrank
 Schreibe deine eigene funktion `frage_und_antwort()`, die ein zufälliges frage-antwort-tupel auswählt und diese zurückgibt. Rufe diese funktion in deinem Code auf, anstatt direkt auf die quizfragen zuzugreifen.
 
 Obacht: Die Funktion muss über dem Aufruf stehen!
+
+--------------------
