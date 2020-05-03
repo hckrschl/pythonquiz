@@ -141,3 +141,11 @@ for elemente in liste:
 
 print("ich nur ein mal")
 ```
+
+--------------------
+### BONUSAUFGABEN (Vorschläge!):
+- spielstand speichern und ausgeben
+    * nächste erweiterung: multiplayermodus
+- wenn die falsche antwort gegeben wurde, noch mal raten lassen
+- Versuche durch googlen herauszufinden: wie kann ich verhindern, dass eine Antwort nur wegen anderer Groß- und Kleinschreibung als falsch gezählt wird? (tip: .lower())
+- mehrere Antwortmöglichkeiten vorgeben und eine auswählen lassen– wie bekommt man das hin? (tip: es gibt mehrere wege, sei kreativ)
