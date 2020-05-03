@@ -49,7 +49,7 @@ Da Fragen immer an der Ersten udn Antworten immer an der zweiten Stelle eines Tu
 
 ## Spickzettel
 
-```
+```python
 zahl = 12
 zahl = 15   # diese variable hat nun einen neuen wert
 text = "hallo ich bin ein stück text. im Programmierjargon heiße ich 'string'."
