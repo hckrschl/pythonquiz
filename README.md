@@ -107,7 +107,7 @@ if benutzerinnen_antwort == richtige_antwort_1 or richtige_antwort_2:
 
 --------------------
 
-## Wiederholung: Variablen.
+# Wiederholung: Variablen.
 ## Aufgabe
 schaue auf deinen Code von gestern. Findest du stellen, die du durch die Nutzung von Variablen vereinfachen kannst?
 
@@ -137,7 +137,7 @@ beide `print()`s geben `Tick` aus, aber wenn man `print(entenfreund_1)` liest is
 
 ```python
 for elemente in liste:
-    print("ich ertscheine öfter auf dem Bildschirm")
+    print("ich erscheine öfter auf dem Bildschirm")
 
 print("ich nur ein mal")
 ```
