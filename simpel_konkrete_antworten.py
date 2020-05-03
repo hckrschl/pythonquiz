@@ -26,7 +26,7 @@ for frage_und_antwort in quizfragen:
     user_antwort = input("\nDEINE ANTWORT:\n")
 
     # überprüfe ob die antwort stimmmt
-    if user_antwort == richtige_antwort:
+    if user_antwort == richtige_antwort or "joker":
         print("✅ Richtig! \n")
     else:
         print("🛑 Leider falsch. Die richtige Antwort war: " + richtige_antwort + "\n")
