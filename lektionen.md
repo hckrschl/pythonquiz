@@ -81,22 +81,6 @@ y. Wiederholung: Variablen
 
 ~~ TAG 2 ZU ENDE ~~
 
-### BONUSAUFGABEN (Vorschläge!):
-- Versuche durch googlen herauszufinden: wie kann ich verhindern, dass eine Antwort nur wegen anderer Groß- und Kleinschreibung als falksch gezählt wird? (tip: .lower())
-- spielstand speichern und ausgeben
-- wenn die falsche antwort gegeben wurde, noch mal raten lassen
-- mehrere Antwortmöglichkeiten vorgeben und eine auswählen lassen– wie bekommt man das hin? (tip: es gibt mehrere wege, sei kreativ)
-- Code wiederverwenden mit Funktionen
-    - du hast funtkionen schon verwendet: print und input!
-    - werden verwqendet um funktionalität die man imer wieder braucht nur 1x zu implementieren und einen namen zu geben
-    -> random nutzen!
-        - Wie kann ich verhindern, dass eine Frage mehrfach gestellt wird? (tip: auch hier führen mehrere Wege zum Ziel)
-    - TODO: eigene fn schreiben? Wofür?
-
-- wenn's richtig fix geht oder wer nach Feierabend weitergebastelt hat
-    * multiplayermodus (quizduell)
-    * gui bauen?
-
 
 ## nützliche tricks:
 - auskommentieren
@@ -114,3 +98,14 @@ y. Wiederholung: Variablen
 - was machen wir wenn jemand vorkenntnisse hat oder richtig fix ist?
 
 - Folie mit Kontaktdaten für Nachfragen
+
+### BONUSAUFGABEN (halde):
+- Code wiederverwenden mit Funktionen
+    - du hast funtkionen schon verwendet: print und input!
+    - werden verwqendet um funktionalität die man imer wieder braucht nur 1x zu implementieren und einen namen zu geben
+    -> random nutzen!
+        - Wie kann ich verhindern, dass eine Frage mehrfach gestellt wird? (tip: auch hier führen mehrere Wege zum Ziel)
+    - TODO: eigene fn schreiben? Wofür?
+- wenn's richtig fix geht oder wer nach Feierabend weitergebastelt hat
+    * multiplayermodus (quizduell)
+    * gui bauen?
