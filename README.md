@@ -101,7 +101,7 @@ frage_1 = quizfragen[0] # ergibt ("Frage 1", "Nein", "nö")
 richtige_antwort_1 = quizfragen[1] # ergibt "Nein"
 richtige_antwort_2 = quizfragen[2] # ergibt "nö"
 
-if benutzerinnen_antwort == richtige_antwort_1 or richtige_antwort_2:
+if benutzerinnen_antwort == richtige_antwort_1 or benutzerinnen_antwort == richtige_antwort_2:
     print("richtig!")
 ```
 
@@ -142,8 +142,10 @@ for elemente in liste:
 print("ich nur ein mal")
 ```
 
+
 --------------------
 ### BONUSAUFGABEN (Vorschläge!):
+- wenbiger umständlich überprüfen ob die gegebene Antwort eine der Richtigen ist mit `antwort in [anfang:ende]`
 - spielstand speichern und ausgeben
     * nächste erweiterung: multiplayermodus
 - wenn die falsche antwort gegeben wurde, noch mal raten lassen
