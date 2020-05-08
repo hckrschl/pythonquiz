@@ -1,3 +1,5 @@
+[![So sieht unser Quiz am Ende aus 😊](https://repl.it/badge/github/Lotterleben/pythonquiz)](https://repl.it/github/Lotterleben/pythonquiz)
+
 # 0. [repl.it](http://repl.it/) einrichten
 - bei [repl.it](http://repl.it/) anmelden
 - Auf -> my repls -> Multiplayer Repls (nur 1 Person pro team!) -> new repl gehen und ein eigenes repl anlegen (dort wird euer code gespeichert)
