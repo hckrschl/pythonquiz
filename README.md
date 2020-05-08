@@ -1,8 +1,8 @@
-# 0. repl.it einrichten
-- bei repl.it anmelden
+# 0. [repl.it](http://repl.it/) einrichten
+- bei [repl.it](http://repl.it/) anmelden
 - Auf -> my repls -> Multiplayer Repls (nur 1 Person pro team!) -> new repl gehen und ein eigenes repl anlegen (dort wird euer code gespeichert)
-- im repl auf "share" klicken und eure teampartnerin, **nadjaobenaus** und **lotterleben** einladen
-    * Effekt: Ihr könnt gemeinsam an einer Datei arbeiten und Nadja und ich können sehen was ihr da macht :)
+- im repl auf "share" klicken und eure teampartnerin sowie **nadjaobenaus** und **lotterleben** einladen
+    * Effekt: Ihr könnt gemeinsam an einer Datei arbeiten und Nadja und Lotte können sehen was ihr da macht und helfen :)
 
 - ☝️ Falls ihr etwas nachschlagen wollt, könnt ihr zB bei https://py-tutorial-de.readthedocs.io/de/python-3.3/index.html (auf Deutsch) oder https://www.w3schools.com/python/ (auf Englisch) suchen.
 
