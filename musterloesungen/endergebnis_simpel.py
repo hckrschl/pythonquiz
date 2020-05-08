@@ -11,14 +11,14 @@ print("\n🐹🌸  WILLKOMMEN BEIM HAMSTERQUIZ! 🌸🐹")
 name = input("Wer bist du?\n")
 print("Hallo " + name + "! :)\n")
 
-# so lange das programm nicht abgebrochen wird, quizzen wir:
-while(True):
-    # wähle eine zufällige frage und deren antwort aus
-    frage_und_antwort = random.choice(quizfragen)
+# gehe alle Quizfragen durch und stelle sie
+for frage_und_antwort in quizfragen:
+
+    # indem wir variablen verwernden, machen wir den Code leichter zu lesen
     frage = frage_und_antwort[0]
     richtige_antwort = frage_und_antwort[1]
 
-    # stelle die Ffage
+    # stelle die Frage
     print("~~~~~~~~~~~~\nHAMSTERFRAGE:")
     print(frage)
 
@@ -26,9 +26,9 @@ while(True):
     user_antwort = input("\nDEINE ANTWORT:\n")
 
     # überprüfe ob die antwort stimmmt
-    if (user_antwort == richtige_antwort):
+    if user_antwort == richtige_antwort or user_antwort == "joker":
         print("✅ Richtig! \n")
     else:
-        print("🛑 Leider falsch. Die richtige Antwort war: "+ richtige_antwort + "\n")
+        print("🛑 Leider falsch. Die richtige Antwort war: " + richtige_antwort + "\n")
 
     input("Bereit für die nächste Frage?\n")

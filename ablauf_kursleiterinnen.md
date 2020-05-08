@@ -67,12 +67,12 @@ muss nicht jede antworten, aber falls ihr was erzählen wollt:
 - was machen wir heute?
 - 14:30 start coden
 
-4. Funktionen
-    -> random nutzen!
-    - TODO: eigene fn schreiben? Wofür?
-5. Schleifen
+x. Bonus: mehrere richtige Antworten mit `or`
+y. Wiederholung: Variablen
+
+4. Schleifen
     -> mehrere fragen stellen
-6. Bonusaufgaben
+5. Bonusaufgaben
 
 17:15 ABSCHLUSSRUNDE:
 - Angehörige herzlich willkommen zuzuschauen :)
@@ -81,14 +81,6 @@ muss nicht jede antworten, aber falls ihr was erzählen wollt:
 
 ~~ TAG 2 ZU ENDE ~~
 
-### BONUSAUFGABEN:
-- Versuche durch googlen herauszufinden: wie kann ich verhindern, dass eine Antwort nur wegen anderer Groß- und Kleinschreibung als falksch gezählt wird? (tip: .lower())
-- spielstand speichern und ausgeben
-- mehrere Antwortmöglichkeiten vorgeben und eine auswählen lassen– wie bekommt man das hin? (tip: es gibt mehrere wege, sei kreativ)
-- Wie kann ich verhindern, dass eine Frage mehrfach gestellt wird? (tip: auch hier führen mehrere Wege zum Ziel)
-- wenn's richtig fix geht oder wer nach Feierabend weitergebastelt hat
-    * multiplayermodus (quizduell)
-    * gui bauen?
 
 ## nützliche tricks:
 - auskommentieren
@@ -106,3 +98,14 @@ muss nicht jede antworten, aber falls ihr was erzählen wollt:
 - was machen wir wenn jemand vorkenntnisse hat oder richtig fix ist?
 
 - Folie mit Kontaktdaten für Nachfragen
+
+### BONUSAUFGABEN (halde):
+- Code wiederverwenden mit Funktionen
+    - du hast funtkionen schon verwendet: print und input!
+    - werden verwqendet um funktionalität die man imer wieder braucht nur 1x zu implementieren und einen namen zu geben
+    -> random nutzen!
+        - Wie kann ich verhindern, dass eine Frage mehrfach gestellt wird? (tip: auch hier führen mehrere Wege zum Ziel)
+    - TODO: eigene fn schreiben? Wofür?
+- wenn's richtig fix geht oder wer nach Feierabend weitergebastelt hat
+    * multiplayermodus (quizduell)
+    * gui bauen?
