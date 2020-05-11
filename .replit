@@ -1,2 +1,2 @@
 language = "python3"
-run = "simpel_konkrete_antworten.py"
+run = "python musterloesungen/endergebnis_simpel.py"
